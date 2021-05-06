@@ -4,20 +4,20 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
     <servlet>
-        <servlet-name>UserWrokServlet</servlet-name>
-        <servlet-class>com.revenge.bookstore.web.UserWrokServlet</servlet-class>
+        <servlet-name>UserWorkServlet</servlet-name>
+        <servlet-class>com.revenge.bookstore.web.UserWorkServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>UserWrokServlet</servlet-name>
-        <url-pattern>/userWrokServlet</url-pattern>
+        <servlet-name>UserWorkServlet</servlet-name>
+        <url-pattern>/userWorkServlet</url-pattern>
     </servlet-mapping>
     <servlet>
-        <servlet-name>BookWrokServlet</servlet-name>
-        <servlet-class>com.revenge.bookstore.web.BookWrokServlet</servlet-class>
+        <servlet-name>BookWorkServlet</servlet-name>
+        <servlet-class>com.revenge.bookstore.web.BookWorkServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>BookWrokServlet</servlet-name>
-        <url-pattern>/manager/bookWrokServlet</url-pattern>
+        <servlet-name>BookWorkServlet</servlet-name>
+        <url-pattern>/manager/bookWorkServlet</url-pattern>
     </servlet-mapping>
 
 </web-app>
