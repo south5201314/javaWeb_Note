@@ -330,7 +330,7 @@
 * esponse 中表示响应，我们经常用于设置返回给客户端的内容（输出） 。
 * out 也是给用户做输出使用的。
 
-![image-20210502200037746](D:\Programming\ProgrammingLearningPlace\学习笔记\javaWeb\笔记图片\输出区别)
+![输出区别](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/%E8%BE%93%E5%87%BA%E5%8C%BA%E5%88%AB.png)
 
 * out.write() 输出字符串没有问题 。
 * out.print() 输出任意数据都没有问题（都转换成为字符串后调用的 write 输出） 。
@@ -386,7 +386,7 @@
 </jsp:include>
 ```
 
-![image-20210502201317532](D:\Programming\ProgrammingLearningPlace\学习笔记\javaWeb\笔记图片\动态包含)
+![动态包含](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/%E5%8A%A8%E6%80%81%E5%8C%85%E5%90%AB.png)
 
 ## 请求转发
 

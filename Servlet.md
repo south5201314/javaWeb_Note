@@ -472,7 +472,7 @@ public class Servlet2 extends HttpServlet {
 
 * 请求重定向，是指客户端给服务器发请求，然后服务器告诉客户端说。我给你一些地址。你去新地址访问。叫请求重定向（因为之前的地址可能已经被废弃）。
 
-  ![image-20210506000249318](E:\LearningPlace\学习笔记\javaWeb\笔记图片\请求重定向)
+  ![image-20210506000249318](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/%E8%AF%B7%E6%B1%82%E9%87%8D%E5%AE%9A%E5%90%91.png)
 
 * 请求重定向的第一种方案： 
   * 设置响应状态码 302 ，表示重定向，（已搬迁） `resp.setStatus(302);`。

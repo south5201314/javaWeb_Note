@@ -25,7 +25,7 @@
   * key:value 键值对组成。
   * 不同的键值对所表示的含义不同。
 
-![image-20210430172914444](E:\LearningPlace\学习笔记\javaWeb\笔记图片\GET请求)
+![image-20210430172914444](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/GET%E8%AF%B7%E6%B1%82.png)
 
 ## POST请求
 
@@ -38,7 +38,7 @@
   * key:value 键值对组成。
   * 不同的键值对所表示的含义不同。
 
-![image-20210430173426630](E:\LearningPlace\学习笔记\javaWeb\笔记图片\POST请求)
+![image-20210430173426630](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/POST%E8%AF%B7%E6%B1%82.png)
 
 ## 常用请求头说明
 
@@ -80,7 +80,7 @@
 * 响应体
   * 服务器回传给客户端的数据。
 
-![image-20210430174544794](E:\LearningPlace\学习笔记\javaWeb\笔记图片\响应)
+![image-20210430174544794](https://revenge-img.oss-cn-guangzhou.aliyuncs.com/img/%E5%93%8D%E5%BA%94.png)
 
 ## 常见的响应码
 
